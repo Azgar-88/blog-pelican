@@ -1,5 +1,5 @@
 title: First Post on My Sweet New Blog
-date: <today's date>
+date: 12-07-2024
 author: Your Name Here
 
 # I am On My Way To Internet Fame and Fortune!
